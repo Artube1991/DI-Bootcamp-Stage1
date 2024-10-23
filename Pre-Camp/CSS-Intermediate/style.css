@@ -1,0 +1,29 @@
+body {background-color: hsl(240, 100%, 20%);}
+
+#content {
+  display: inline-block;
+  background-color: hsl(240, 100%, 45%);
+  float : left;
+  width: 500px;
+  height: 400px;
+  padding: 5px;
+  text-align: center;
+}
+
+#nav {
+  display: inline-block;
+  background-color: hsl(240, 100%, 75%);
+  height: 400px;
+  width: 150px;
+  padding: 5px;
+  float : left;
+}
+
+.copyright {
+ float : down;
+}
+
+#wrap {margin-left: 20px;
+margin-top: 20px;}
+
+#poem {list-style-type: none;}
